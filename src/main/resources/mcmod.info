@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "zTNFCResources",
+		"name": "zTNFCResources",
+		"description": "§bProvides ore names and textures for custom items.",
+    "version": "${mod_version}",
+    "mcversion": "${minecraft_version}",
+		"url": "https://github.com/AnodeCathode/TechNodefirmacraftResources",
+		"updateUrl": "",
+		"authorList": [ "AnodeCathode", "Bunsan" ],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [ ],
+		"parent": "",
+		"requiredMods": [ ],
+		"dependencies": [ ],
+		"dependants": [],
+		"useDependencyInformation": "false"
+	}]
+}
