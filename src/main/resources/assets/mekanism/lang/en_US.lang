@@ -4,3 +4,6 @@
 
 //Cardboard Box
 tile.CardboardBox.name=Transport Crate
+
+//ElectricChest
+tile.MachineBlock.ElectricChest.name=Electric Refrigerated Chest
