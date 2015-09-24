@@ -1,0 +1,23 @@
+author=10paktimbits
+
+item.salveFireResist.effect=Duration 30 seconds
+item.salveHealth.effect=Restores 20% of Base Health
+item.salveNightVision.effect=Duration 30 seconds
+item.salveStrength.effect=Duration 30 seconds
+item.salveSwiftness.effect=Duration 30 seconds
+item.salveWaterBreathing.effect=Duration 30 seconds
+
+text.tooltipHeartsHealed=% Base Health Healed
+
+text.dye.red=Sorry No
+text.dye.green=Sorry No
+text.dye.purple= Sorry No
+text.dye.cyan= Sorry No
+text.dye.lightGray= Sorry No
+text.dye.gray= Sorry No
+text.dye.pink= Sorry No
+text.dye.lime= Sorry No
+text.dye.yellow= Sorry No
+text.dye.lightBlue= Sorry No
+text.dye.magenta= Sorry No
+text.dye.orange= Sorry No
