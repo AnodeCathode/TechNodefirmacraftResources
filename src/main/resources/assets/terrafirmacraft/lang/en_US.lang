@@ -5,3 +5,12 @@ tile.Ore.Selenite.name=Scapolite
 tile.Ore.Serpentine.name=Bauxite
 tile.Ore.Sulfur.name=Strontium
 tile.Ore.Satinspar.name=Scheelite
+
+#== Ore Items ==
+
+item.Ore.Microcline.name=Osmium
+item.Ore.Olivine.name=Apatite
+item.Ore.Selenite.name=Scapolite
+item.Ore.Serpentine.name=Bauxite
+item.Ore.Sulfur.name=Strontium
+item.Ore.Satinspar.name=Scheelite
