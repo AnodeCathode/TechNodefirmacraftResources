@@ -14,3 +14,16 @@ item.Ore.Selenite.name=Scapolite
 item.Ore.Serpentine.name=Bauxite
 item.Ore.Sulfur.name=Strontium
 item.Ore.Satinspar.name=Scheelite
+
+#== GUI Ores - Mostly for WAILA ==
+gui.ore.platinum=Platinum
+gui.ore.lead=Lead
+gui.ore.gypsum=Not used
+gui.ore.satinspar=Tungsten - unused
+gui.ore.selenite=Glowstone
+gui.ore.petrified.wood=Netherrack
+gui.ore.jet=Jet
+gui.ore.microcline=Osmium
+gui.ore.pitchblende=Pitchblende
+gui.ore.serpentine=Bauxite
+gui.ore.olivine=Apatite
