@@ -16,8 +16,8 @@ item.Ore.Sulfur.name=Strontium
 item.Ore.Satinspar.name=Scheelite
 
 #== GUI Ores - Mostly for WAILA ==
-gui.ore.platinum=Platinum
-gui.ore.lead=Lead
+gui.ore.Platinum=Platinum
+gui.ore.Lead=Lead
 gui.ore.gypsum=Gypsum
 gui.ore.satinspar=Tungsten
 gui.ore.selenite=Glowstone
