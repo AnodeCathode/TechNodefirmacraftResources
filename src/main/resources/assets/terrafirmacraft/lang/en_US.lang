@@ -18,8 +18,8 @@ item.Ore.Satinspar.name=Scheelite
 #== GUI Ores - Mostly for WAILA ==
 gui.ore.platinum=Platinum
 gui.ore.lead=Lead
-gui.ore.gypsum=Not used
-gui.ore.satinspar=Tungsten - unused
+gui.ore.gypsum=Gypsum
+gui.ore.satinspar=Tungsten
 gui.ore.selenite=Glowstone
 gui.ore.petrified.wood=Netherrack
 gui.ore.jet=Jet
