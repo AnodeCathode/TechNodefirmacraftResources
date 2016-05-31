@@ -14,3 +14,5 @@ item.blazePowder.name=Strontium Powder
 item.coal.charcoal.name=Charcoal Fragment
 container.furnace=Steel Furnace
 tile.gravel.name=Tunnel Bore Ballast
+fluid.liquid_dye.light_blue=Light Blue Dye
+item.dyePowder.light_blue.name=Light Blue Dye
