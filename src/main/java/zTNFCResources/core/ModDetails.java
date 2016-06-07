@@ -6,7 +6,7 @@ public class ModDetails
 	public static final String ModName = "zTNFCResources";
 
 	public static final int VersionMajor = 2;
-	public static final int VersionMinor = 17;
+	public static final int VersionMinor = 18;
 	public static final int VersionRevision = 0;
 
 	public static final String ModVersion = VersionMajor + "." + VersionMinor + "." + VersionRevision;
